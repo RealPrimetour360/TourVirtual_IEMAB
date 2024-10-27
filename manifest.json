@@ -1,5 +1,5 @@
 {
- "theme_color": "#FFFFFF",
+ "theme_color": "#FF9966",
  "icons": [
   {
    "sizes": "150x150",
@@ -39,7 +39,7 @@
  ],
  "display": "fullscreen",
  "description": "Tour Virtual IEMAB",
- "background_color": "#FFFFFF",
+ "background_color": "#FF9966",
  "name": "Sem Título 3",
  "start_url": "index.htm?installed=true"
 }
